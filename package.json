@@ -1,0 +1,23 @@
+{
+  "name": "burger_project",
+  "version": "1.0.0",
+  "description": "creating new project",
+  "main": "app.js",
+  "scripts": {
+    "test": "none",
+    "start": "node server.js"
+  },
+  "author": "shagor",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "joi": "^17.9.2",
+    "jsonwebtoken": "^9.0.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^7.4.1",
+    "morgan": "^1.10.0"
+  }
+}
